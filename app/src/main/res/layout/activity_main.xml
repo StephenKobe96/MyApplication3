@@ -216,29 +216,29 @@
             android:text="结果"
             android:layout_weight="1"
             />
-        <EditText
-            android:id="@+id/Edit_JieGuo01"
+        <TextView
+            android:id="@+id/JieGuo_01"
             android:editable="false"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             />
-        <EditText
-            android:id="@+id/Edit_JieGuo02"
+        <TextView
+            android:id="@+id/JieGuo_02"
             android:editable="false"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             />
-        <EditText
-            android:id="@+id/Edit_JieGuo03"
+        <TextView
+            android:id="@+id/JieGuo_03"
             android:editable="false"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             />
-        <EditText
-            android:id="@+id/Edit_JieGuo04"
+        <TextView
+            android:id="@+id/JieGuo_04"
             android:editable="false"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
